@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  &__list {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    span {
+      font-size: 18px;
+      font-weight: 500;
+      cursor: pointer;
+    }
+    select,
+    button {
+      outline: none;
+      font-size: 16px;
+      padding: 4px 8px;
+      background: none;
+      border: 2px solid #dedada;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  }
+}

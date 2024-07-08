@@ -1,0 +1,41 @@
+{
+   "header":{
+    "service": "Xizmatlar",
+    "about": "Biz hamiqimizda",
+    "contacts": "Bog'lanish",
+    "log-in": "Kirish",
+    "open-account": "Hisob yaratish",
+    "eng": "ENG",
+    "uz": "UZB"
+   },
+    "login":{
+    "title": "ByTrendga xush kelibsiz!",
+    "desc": "Hisobingiz yo'qmi?",
+    "log-in": "Registratsiya",
+    "email": "Elektron pochta",
+    "email-placeholder":"E-pochta manzili",
+    "password": "Parol",
+    "password-placeholder": "Parol",
+    "button": "Davom etish",
+    "button-loading": "Kuting..."
+   },
+   "register":{
+    "title": "ByTrendga xush kelibsiz!",
+    "desc": "Hisobingiz bormi?",
+    "log-in": "Kirish",
+    "email": "Elektron pochta",
+    "email-placeholder": "E-pochta manzili",
+    "phone": "Telefon raqam",
+    "phone-placeholder": "+7 965-748-89-90",
+    "country":"Mamlakat",
+    "city": "Shahar",
+    "city-placeholder": "Shaharni kiring",
+    "password": "Parol",
+    "password-placeholder": "Parolingizni kiriting",
+    "password-confirm":"Parolingizni tasdiqlang",
+    "password-confirm-placeholder":"Parolini qayta kiriting",
+    "button": "Ro'yxatdan o'tish"
+      
+   }
+
+}

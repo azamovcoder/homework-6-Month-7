@@ -1,0 +1,43 @@
+{
+   "header":{
+    "service": "Services",
+    "about": "About",
+    "contacts": "Contacts",
+    "log-in": "Log in",
+    "open-account": "Open an account",
+    "eng": "ENG",
+    "uz": "UZB"
+   },
+   "login":{
+    "title": "Welcome to ByTrend!",
+    "desc": "Don't have an account?",
+    "log-in": "Register",
+    "email": "Email",
+    "email-placeholder":"Email address",
+    "password": "Password",
+    "password-placeholder": "Password",
+    "button": "Continue",
+    "button-loading": "Loading..."
+   },
+   "register":{
+    "title": "Welcome to ByTrend!",
+    "desc": "Already have an account?",
+    "log-in": "Log in",
+    "email": "Email",
+    "email-placeholder": "Email address",
+    "phone": "Phone",
+    "phone-placeholder": "+7 965-748-89-90",
+    "country":"Country",
+    "city": "City",
+    "city-placeholder": "Name of the city",
+    "password": "Password",
+    "password-placeholder": "Password",
+    "password-confirm":"Confirm password",
+    "password-confirm-placeholder":"Enter password again",
+    "button": "Register"
+
+
+      
+   }
+
+}
